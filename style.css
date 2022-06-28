@@ -1,0 +1,49 @@
+h1{
+    color : blue;
+  font-family: 'Times New Roman';
+  background-color: cornsilk;
+  font-weight: bold;
+}
+
+body{
+    background-color: seagreen;
+}
+
+#show_sketch{
+  float: right;
+}
+
+#score
+{
+    float: left;
+    margin-left :20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+#timer
+{
+    float: right;
+    margin-right: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+#sketch_to_be_drawn
+{
+  font-weight: bolder;
+  color:tomato;
+  font-size: 25px;
+}
+
+#Sketch_label
+{
+  font-size: 20px;
+}
+
+#confidence
+{
+  font-size: 20px;
+}
